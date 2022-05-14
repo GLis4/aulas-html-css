@@ -1,0 +1,6 @@
+{
+    "editor.autoClosingBrackets": "never",
+    "editor.autoIndent": "brackets",
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.inlineSuggest.enabled": false
+}
